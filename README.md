@@ -33,6 +33,11 @@
 ## Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [如何用 Google Sheets / Excel 當作資料庫？](https://wayneblog.ga/2022-12-08/use-google-sheet-as-db/)
+- [JavaScript 中關於 Array 的 13 個入門小技巧！](https://wayneblog.ga/2022-12-05/js-13-useful-array-tricks/)
+- [一行 JavaScript 就能完成的 7 個小任務！](https://wayneblog.ga/2022-12-05/js-7-killer-one-liners/)
+- [TypeScript 裡 string 和 String，還真不僅僅是大小寫的區別！](https://wayneblog.ga/2022-11-28/ts-string-type-vs-class/)
+- [今天來搞一個屬於自己的 VScode Extension 吧！](https://wayneblog.ga/2022-11-22/create-own-vscode-extension/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
