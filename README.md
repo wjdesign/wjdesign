@@ -38,6 +38,11 @@
 - [一行 JavaScript 就能完成的 7 個小任務！](https://wayneblog.ga/2022-12-05/js-7-killer-one-liners/)
 - [TypeScript 裡 string 和 String，還真不僅僅是大小寫的區別！](https://wayneblog.ga/2022-11-28/ts-string-type-vs-class/)
 - [今天來搞一個屬於自己的 VScode Extension 吧！](https://wayneblog.ga/2022-11-22/create-own-vscode-extension/)
+- [免JS！純CSS就可打造出，開合式的漢堡選單功能](https://wayneblog.ga/2022-11-21/pure-css-toggle-menu-icon/)
+- [避免無效 favicon.ico 存取動作](https://wayneblog.ga/2022-11-21/prevent-invalid-favicon/)
+- [localStorage 容量太小？試試 localforage、idb-keyval](https://wayneblog.ga/2022-11-15/localforage-and-idb-keyval/)
+- [試用 RunKit](https://wayneblog.ga/2022-11-14/try-runkit/)
+- [.NET SqlClient 安全漏洞 CVE-2022-41064 解讀](https://wayneblog.ga/2022-11-11/dotnet-cve-2022-41064/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
