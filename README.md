@@ -29,3 +29,10 @@
 ![](https://streak-stats.demolab.com/?user=wjdesign&theme=dark)  
 
 ---
+
+## Latest Blog Posts.  
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
