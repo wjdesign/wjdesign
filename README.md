@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [用 Node.js 建立你的第一個 OpenAI LINE Bot 聊天機器人](https://wayneblog.ga/2022-12-12/nodejs-create-openai-line-bot/)
 - [如何用 Google Sheets / Excel 當作資料庫？](https://wayneblog.ga/2022-12-08/use-google-sheet-as-db/)
 - [JavaScript 中關於 Array 的 13 個入門小技巧！](https://wayneblog.ga/2022-12-05/js-13-useful-array-tricks/)
 - [一行 JavaScript 就能完成的 7 個小任務！](https://wayneblog.ga/2022-12-05/js-7-killer-one-liners/)
@@ -42,7 +43,6 @@
 - [避免無效 favicon.ico 存取動作](https://wayneblog.ga/2022-11-21/prevent-invalid-favicon/)
 - [localStorage 容量太小？試試 localforage、idb-keyval](https://wayneblog.ga/2022-11-15/localforage-and-idb-keyval/)
 - [試用 RunKit](https://wayneblog.ga/2022-11-14/try-runkit/)
-- [.NET SqlClient 安全漏洞 CVE-2022-41064 解讀](https://wayneblog.ga/2022-11-11/dotnet-cve-2022-41064/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
