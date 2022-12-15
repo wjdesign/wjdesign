@@ -36,13 +36,13 @@
 - [【Tampermonkey】輕鬆上手 - 油猴腳本開發](https://wayneblog.ga/2022-12-15/tampermonkey-userscript-tutorial/)
 - [用 Node.js 建立你的第一個 OpenAI LINE Bot 聊天機器人](https://wayneblog.ga/2022-12-12/nodejs-create-openai-line-bot/)
 - [如何用 Google Sheets / Excel 當作資料庫？](https://wayneblog.ga/2022-12-08/use-google-sheet-as-db/)
+- [在 CentOS 上安裝 ASP.NET Core + Nginx 的筆記](https://wayneblog.ga/2022-12-06/dotnet-nginx-install-on-centos/)
 - [JavaScript 中關於 Array 的 13 個入門小技巧！](https://wayneblog.ga/2022-12-05/js-13-useful-array-tricks/)
 - [一行 JavaScript 就能完成的 7 個小任務！](https://wayneblog.ga/2022-12-05/js-7-killer-one-liners/)
 - [TypeScript 裡 string 和 String，還真不僅僅是大小寫的區別！](https://wayneblog.ga/2022-11-28/ts-string-type-vs-class/)
 - [今天來搞一個屬於自己的 VScode Extension 吧！](https://wayneblog.ga/2022-11-22/create-own-vscode-extension/)
 - [免JS！純CSS就可打造出，開合式的漢堡選單功能](https://wayneblog.ga/2022-11-21/pure-css-toggle-menu-icon/)
 - [避免無效 favicon.ico 存取動作](https://wayneblog.ga/2022-11-21/prevent-invalid-favicon/)
-- [localStorage 容量太小？試試 localforage、idb-keyval](https://wayneblog.ga/2022-11-15/localforage-and-idb-keyval/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
