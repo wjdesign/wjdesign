@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [面試常見的瀏覽器問題&lpar;三&rpar; - HTTP/1、HTTP/1.1 和 HTTP/2 的區別](https://wayneblog.ga/2022-12-19/browser-http1.0-http1.1-http2.0-difference/)
 - [面試常見的瀏覽器問題&lpar;二&rpar; - 事件委派、捕獲、冒泡](https://wayneblog.ga/2022-12-19/browser-delegation-capture-bubble/)
 - [面試常見的瀏覽器問題&lpar;一&rpar; - HTTP caching 機制](https://wayneblog.ga/2022-12-19/browser-http-caching/)
 - [【Tampermonkey】輕鬆上手 - 油猴腳本開發](https://wayneblog.ga/2022-12-15/tampermonkey-userscript-tutorial/)
@@ -42,7 +43,6 @@
 - [ASP.NET Core Docker 筆記 3 - 共用 Nginx 容器與 Certbot 整合](https://wayneblog.ga/2022-12-08/dotnet-core-docker-note-3/)
 - [ASP.NET Core Docker 筆記 2 - 組合容器建構系統](https://wayneblog.ga/2022-12-07/dotnet-core-docker-note-2/)
 - [ASP.NET Core Docker 筆記 1 - 初探](https://wayneblog.ga/2022-12-06/dotnet-core-docker-note-1/)
-- [在 CentOS 上安裝 ASP.NET Core + Nginx 的筆記](https://wayneblog.ga/2022-12-06/dotnet-nginx-install-on-centos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
