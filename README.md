@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [面試常見的瀏覽器問題&lpar;二&rpar; - 事件委派、捕獲、冒泡](https://wayneblog.ga/2022-12-19/browser-delegation-capture-bubble/)
 - [面試常見的瀏覽器問題&lpar;一&rpar; - HTTP caching 機制](https://wayneblog.ga/2022-12-19/browser-http-caching/)
 - [【Tampermonkey】輕鬆上手 - 油猴腳本開發](https://wayneblog.ga/2022-12-15/tampermonkey-userscript-tutorial/)
 - [用 Node.js 建立你的第一個 OpenAI LINE Bot 聊天機器人](https://wayneblog.ga/2022-12-12/nodejs-create-openai-line-bot/)
@@ -42,7 +43,6 @@
 - [ASP.NET Core Docker 筆記 2 - 組合容器建構系統](https://wayneblog.ga/2022-12-07/dotnet-core-docker-note-2/)
 - [ASP.NET Core Docker 筆記 1 - 初探](https://wayneblog.ga/2022-12-06/dotnet-core-docker-note-1/)
 - [在 CentOS 上安裝 ASP.NET Core + Nginx 的筆記](https://wayneblog.ga/2022-12-06/dotnet-nginx-install-on-centos/)
-- [JavaScript 中關於 Array 的 13 個入門小技巧！](https://wayneblog.ga/2022-12-05/js-13-useful-array-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
