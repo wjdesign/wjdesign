@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [闡述單元測試、元件測試，並學習在自己的 Vue3 專案中加入 Vitest！](https://wayneblog.ga/2022-12-29/vitest-unit-test/)
 - [前端面試常考的 JavaScript 手寫題彙整](https://wayneblog.ga/2022-12-26/js-rebuild-common-function/)
 - [Javascript 中，Map、Set、WeakMap 和 WeakSet 的區別？](https://wayneblog.ga/2022-12-21/js-map-set-difference/)
 - [面試常見的瀏覽器問題&lpar;三&rpar; - HTTP/1、HTTP/1.1 和 HTTP/2 的區別](https://wayneblog.ga/2022-12-19/browser-http1.0-http1.1-http2.0-difference/)
@@ -42,7 +43,6 @@
 - [用 Node.js 建立你的第一個 OpenAI LINE Bot 聊天機器人](https://wayneblog.ga/2022-12-12/nodejs-create-openai-line-bot/)
 - [如何用 Google Sheets / Excel 當作資料庫？](https://wayneblog.ga/2022-12-10/use-google-sheet-as-db/)
 - [ASP.NET Core Docker 筆記 4 - ASP.NET Core 網站容器化經驗分享](https://wayneblog.ga/2022-12-09/dotnet-core-docker-note-4/)
-- [ASP.NET Core Docker 筆記 3 - 共用 Nginx 容器與 Certbot 整合](https://wayneblog.ga/2022-12-08/dotnet-core-docker-note-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
