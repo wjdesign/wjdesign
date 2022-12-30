@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [【VueUse】一款基於 Vue Composition API 的函式工具集](https://wayneblog.ga/2022-12-30/npm-vueuse/)
 - [淺談為什麼 Vue 和 React 都選擇了 Hooks？](https://wayneblog.ga/2022-12-30/why-use-hooks/)
 - [闡述單元測試、元件測試，並學習在自己的 Vue3 專案中加入 Vitest！](https://wayneblog.ga/2022-12-29/vitest-unit-test/)
 - [前端面試常考的 JavaScript 手寫題彙整](https://wayneblog.ga/2022-12-26/js-rebuild-common-function/)
@@ -42,7 +43,6 @@
 - [面試常見的瀏覽器問題&lpar;一&rpar; - HTTP caching 機制](https://wayneblog.ga/2022-12-19/browser-http-caching/)
 - [【Tampermonkey】輕鬆上手 - 油猴腳本開發](https://wayneblog.ga/2022-12-15/tampermonkey-userscript-tutorial/)
 - [用 Node.js 建立你的第一個 OpenAI LINE Bot 聊天機器人](https://wayneblog.ga/2022-12-12/nodejs-create-openai-line-bot/)
-- [如何用 Google Sheets / Excel 當作資料庫？](https://wayneblog.ga/2022-12-10/use-google-sheet-as-db/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
