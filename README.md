@@ -33,7 +33,8 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
-- [【Nuxt3】開箱即用的 Nuxt3 玩轉筆記](https://wayneblog.ga/2023-01-10/nuxt-try-nuxt3/)
+- [【Nuxt3】實戰練習 - 實作部落格](https://wayneblog.ga/2023-01-16/nuxt-nuxt3-practice-project/)
+- [【Nuxt3】開箱即用的 Nuxt3 玩轉筆記](https://wayneblog.ga/2023-01-14/nuxt-try-nuxt3/)
 - [以生活的例子說明單線程和多線程](https://wayneblog.ga/2023-01-07/single-multi-thread/)
 - [【VueUse】一款基於 Vue Composition API 的函式工具集](https://wayneblog.ga/2022-12-30/npm-vueuse/)
 - [淺談為什麼 Vue 和 React 都選擇了 Hooks？](https://wayneblog.ga/2022-12-30/why-use-hooks/)
@@ -42,7 +43,6 @@
 - [Javascript 中，Map、Set、WeakMap 和 WeakSet 的區別？](https://wayneblog.ga/2022-12-21/js-map-set-difference/)
 - [面試常見的瀏覽器問題&lpar;三&rpar; - HTTP/1、HTTP/1.1 和 HTTP/2 的區別](https://wayneblog.ga/2022-12-19/browser-http1.0-http1.1-http2.0-difference/)
 - [面試常見的瀏覽器問題&lpar;二&rpar; - 事件委派、捕獲、冒泡](https://wayneblog.ga/2022-12-19/browser-delegation-capture-bubble/)
-- [面試常見的瀏覽器問題&lpar;一&rpar; - HTTP caching 機制](https://wayneblog.ga/2022-12-19/browser-http-caching/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
