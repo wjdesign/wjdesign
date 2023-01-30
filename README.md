@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [前端效能調校：使用 Partytown 將笨重的 JavaScript 放到 Web Workers 執行](https://wayneblog.ga/2023-01-30/npm-partytown-from-web-worker/)
 - [網站前端打 API 時把密碼加密，有意義嗎？](https://wayneblog.ga/2023-01-17/why-encrypt-in-client/)
 - [【Nuxt3】實戰練習 - 實作部落格](https://wayneblog.ga/2023-01-16/nuxt-nuxt3-practice-project/)
 - [【Nuxt3】開箱即用的 Nuxt3 玩轉筆記](https://wayneblog.ga/2023-01-14/nuxt-try-nuxt3/)
@@ -42,7 +43,6 @@
 - [闡述單元測試、元件測試，並學習在自己的 Vue3 專案中加入 Vitest！](https://wayneblog.ga/2022-12-29/vitest-unit-test/)
 - [前端面試常考的 JavaScript 手寫題彙整](https://wayneblog.ga/2022-12-26/js-rebuild-common-function/)
 - [Javascript 中，Map、Set、WeakMap 和 WeakSet 的區別？](https://wayneblog.ga/2022-12-21/js-map-set-difference/)
-- [面試常見的瀏覽器問題&lpar;三&rpar; - HTTP/1、HTTP/1.1 和 HTTP/2 的區別](https://wayneblog.ga/2022-12-19/browser-http1.0-http1.1-http2.0-difference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
