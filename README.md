@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [【Docker】建立私有 Docker Registry](https://wayneblog.ga/2023-01-31/docker-private-registry/)
 - [【Server-Sent Event】在網頁等待手機端完成操作](https://wayneblog.ga/2023-01-31/web-wait-for-qrcode-scan/)
 - [【Windows】指令式軟體安裝服務比較：Chocolatey、Scoop 與 winget](https://wayneblog.ga/2023-01-31/windows-chocolatey-scoop-winget/)
 - [前端效能調校：使用 Partytown 將笨重的 JavaScript 放到 Web Workers 執行](https://wayneblog.ga/2023-01-30/npm-partytown-from-web-worker/)
@@ -42,7 +43,6 @@
 - [以生活的例子說明單線程和多線程](https://wayneblog.ga/2023-01-07/single-multi-thread/)
 - [【VueUse】一款基於 Vue Composition API 的函式工具集](https://wayneblog.ga/2022-12-30/npm-vueuse/)
 - [淺談為什麼 Vue 和 React 都選擇了 Hooks？](https://wayneblog.ga/2022-12-30/why-use-hooks/)
-- [闡述單元測試、元件測試，並學習在自己的 Vue3 專案中加入 Vitest！](https://wayneblog.ga/2022-12-29/vitest-unit-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
