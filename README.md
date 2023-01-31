@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [【Server-Sent Event】在網頁等待手機端完成操作](https://wayneblog.ga/2023-01-31/web-wait-for-qrcode-scan/)
 - [【Windows】指令式軟體安裝服務比較：Chocolatey、Scoop 與 winget](https://wayneblog.ga/2023-01-31/windows-chocolatey-scoop-winget/)
 - [前端效能調校：使用 Partytown 將笨重的 JavaScript 放到 Web Workers 執行](https://wayneblog.ga/2023-01-30/npm-partytown-from-web-worker/)
 - [網站前端打 API 時把密碼加密，有意義嗎？](https://wayneblog.ga/2023-01-17/why-encrypt-in-client/)
@@ -42,7 +43,6 @@
 - [【VueUse】一款基於 Vue Composition API 的函式工具集](https://wayneblog.ga/2022-12-30/npm-vueuse/)
 - [淺談為什麼 Vue 和 React 都選擇了 Hooks？](https://wayneblog.ga/2022-12-30/why-use-hooks/)
 - [闡述單元測試、元件測試，並學習在自己的 Vue3 專案中加入 Vitest！](https://wayneblog.ga/2022-12-29/vitest-unit-test/)
-- [前端面試常考的 JavaScript 手寫題彙整](https://wayneblog.ga/2022-12-26/js-rebuild-common-function/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
