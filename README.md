@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [【Docker】數據持久化與數據共享 - tmpfsMount/BindMount/Volume](https://wayneblog.ga/2023-02-02/docker-persistent-volume/)
 - [【LIFF】認識 LINE Front-end Framework &lpar;LIFF&rpar; 前端框架 &lpar;LIFF v2&rpar;](https://wayneblog.ga/2023-02-01/line-front-end-framework-v2/)
 - [【Docker】建立私有 Docker Registry](https://wayneblog.ga/2023-01-31/docker-private-registry/)
 - [【Server-Sent Event】在網頁等待手機端完成操作](https://wayneblog.ga/2023-01-31/web-wait-for-qrcode-scan/)
@@ -42,7 +43,6 @@
 - [【Nuxt3】實戰練習 - 實作部落格](https://wayneblog.ga/2023-01-16/nuxt-nuxt3-practice-project/)
 - [【Nuxt3】開箱即用的 Nuxt3 玩轉筆記](https://wayneblog.ga/2023-01-14/nuxt-try-nuxt3/)
 - [以生活的例子說明單線程和多線程](https://wayneblog.ga/2023-01-07/single-multi-thread/)
-- [【VueUse】一款基於 Vue Composition API 的函式工具集](https://wayneblog.ga/2022-12-30/npm-vueuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
