@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 Node.js 串接 MongoDB &lpar;含CRUD&rpar;](https://wayneblog.ga/2023-02-06/nodejs-using-mongodb/)
 - [3 種使用 Regex 正則表達式對資料夾中的文字檔進行搜尋與取代的方法](https://wayneblog.ga/2023-02-03/replace-using-regex-in-3-ways/)
 - [【Docker】數據持久化與數據共享 - tmpfsMount/BindMount/Volume](https://wayneblog.ga/2023-02-02/docker-persistent-volume/)
 - [【MySQL】1251 Error 的解決方式](https://wayneblog.ga/2023-02-02/mysql-1251-error/)
@@ -42,7 +43,6 @@
 - [【Windows】指令式軟體安裝服務比較：Chocolatey、Scoop 與 winget](https://wayneblog.ga/2023-01-31/windows-chocolatey-scoop-winget/)
 - [前端效能調校：使用 Partytown 將笨重的 JavaScript 放到 Web Workers 執行](https://wayneblog.ga/2023-01-30/npm-partytown-from-web-worker/)
 - [網站前端打 API 時把密碼加密，有意義嗎？](https://wayneblog.ga/2023-01-17/why-encrypt-in-client/)
-- [【Nuxt3】實戰練習 - 實作部落格](https://wayneblog.ga/2023-01-16/nuxt-nuxt3-practice-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
