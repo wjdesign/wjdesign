@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [每天都在用的 Ping 命令，它到底是什麼？](https://wayneblog.ga/2023-02-08/what-is-ping/)
 - [ASP.NET Core 網站如何整合 Google 的 reCAPTCHA Enterprise 功能](https://wayneblog.ga/2023-02-07/dotnet-core-google-recaptcha/)
 - [使用 Node.js 串接 MongoDB &lpar;含CRUD&rpar;](https://wayneblog.ga/2023-02-06/nodejs-using-mongodb/)
 - [3 種使用 Regex 正則表達式對資料夾中的文字檔進行搜尋與取代的方法](https://wayneblog.ga/2023-02-03/replace-using-regex-in-3-ways/)
@@ -42,7 +43,6 @@
 - [【Docker】建立私有 Docker Registry](https://wayneblog.ga/2023-01-31/docker-private-registry/)
 - [【Server-Sent Event】在網頁等待手機端完成操作](https://wayneblog.ga/2023-01-31/web-wait-for-qrcode-scan/)
 - [【Windows】指令式軟體安裝服務比較：Chocolatey、Scoop 與 winget](https://wayneblog.ga/2023-01-31/windows-chocolatey-scoop-winget/)
-- [前端效能調校：使用 Partytown 將笨重的 JavaScript 放到 Web Workers 執行](https://wayneblog.ga/2023-01-30/npm-partytown-from-web-worker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
