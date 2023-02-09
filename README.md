@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [在 Windows 平台打造完美的 Go 開發環境 &lpar;WSL 2&rpar;](https://wayneblog.ga/2023-02-09/golang-dev-box-in-windows/)
 - [你/妳真的了解 127.0.0.1 與 0.0.0.0 的區別？](https://wayneblog.ga/2023-02-08/different-in-localhost-ip/)
 - [每天都在用的 Ping 命令，它到底是什麼？](https://wayneblog.ga/2023-02-08/what-is-ping/)
 - [ASP.NET Core 網站如何整合 Google 的 reCAPTCHA Enterprise 功能](https://wayneblog.ga/2023-02-07/dotnet-core-google-recaptcha/)
@@ -42,7 +43,6 @@
 - [【MySQL】1251 Error 的解決方式](https://wayneblog.ga/2023-02-02/mysql-1251-error/)
 - [【LIFF】認識 LINE Front-end Framework &lpar;LIFF&rpar; 前端框架 &lpar;LIFF v2&rpar;](https://wayneblog.ga/2023-02-01/line-front-end-framework-v2/)
 - [【Docker】建立私有 Docker Registry](https://wayneblog.ga/2023-01-31/docker-private-registry/)
-- [【Server-Sent Event】在網頁等待手機端完成操作](https://wayneblog.ga/2023-01-31/web-wait-for-qrcode-scan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
