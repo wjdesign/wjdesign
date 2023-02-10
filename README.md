@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [Golang 的超級初心者筆記](https://wayneblog.ga/2023-02-10/golang-beginner-tutorial/)
 - [在 Windows 平台打造完美的 Go 開發環境 &lpar;WSL 2&rpar;](https://wayneblog.ga/2023-02-09/golang-dev-box-in-windows/)
 - [你/妳真的了解 127.0.0.1 與 0.0.0.0 的區別？](https://wayneblog.ga/2023-02-08/different-in-localhost-ip/)
 - [每天都在用的 Ping 命令，它到底是什麼？](https://wayneblog.ga/2023-02-08/what-is-ping/)
@@ -42,7 +43,6 @@
 - [【Docker】數據持久化與數據共享 - tmpfsMount/BindMount/Volume](https://wayneblog.ga/2023-02-02/docker-persistent-volume/)
 - [【MySQL】1251 Error 的解決方式](https://wayneblog.ga/2023-02-02/mysql-1251-error/)
 - [【LIFF】認識 LINE Front-end Framework &lpar;LIFF&rpar; 前端框架 &lpar;LIFF v2&rpar;](https://wayneblog.ga/2023-02-01/line-front-end-framework-v2/)
-- [【Docker】建立私有 Docker Registry](https://wayneblog.ga/2023-01-31/docker-private-registry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
