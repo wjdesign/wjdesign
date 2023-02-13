@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [【C#】實作 Debounced Job](https://wayneblog.ga/2023-02-13/dotnet-core-debounce/)
 - [學習 CSS 中的 :where&lpar;&rpar; 與 :is&lpar;&rpar; 函式](https://wayneblog.ga/2023-02-13/css-where-function/)
 - [Golang 的超級初心者筆記](https://wayneblog.ga/2023-02-10/golang-beginner-tutorial/)
 - [在 Windows 平台打造完美的 Go 開發環境 &lpar;WSL 2&rpar;](https://wayneblog.ga/2023-02-09/golang-dev-box-in-windows/)
@@ -42,7 +43,6 @@
 - [使用 Node.js 串接 MongoDB &lpar;含CRUD&rpar;](https://wayneblog.ga/2023-02-06/nodejs-using-mongodb/)
 - [3 種使用 Regex 正則表達式對資料夾中的文字檔進行搜尋與取代的方法](https://wayneblog.ga/2023-02-03/replace-using-regex-in-3-ways/)
 - [【Docker】數據持久化與數據共享 - tmpfsMount/BindMount/Volume](https://wayneblog.ga/2023-02-02/docker-persistent-volume/)
-- [【MySQL】1251 Error 的解決方式](https://wayneblog.ga/2023-02-02/mysql-1251-error/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
