@@ -34,6 +34,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [【Polacode】一款好用的 VSCode 截圖套件推薦](https://wayneblog.ga/2023-02-14/vscode-plugin-polacode/)
+- [簡單扼要的介紹什麼是 Node.js？](https://wayneblog.ga/2023-02-14/what-is-nodejs/)
 - [【C#】實作 Debounced Job](https://wayneblog.ga/2023-02-13/dotnet-core-debounce/)
 - [學習 CSS 中的 :where&lpar;&rpar; 與 :is&lpar;&rpar; 函式](https://wayneblog.ga/2023-02-13/css-where-function/)
 - [Golang 的超級初心者筆記](https://wayneblog.ga/2023-02-10/golang-beginner-tutorial/)
@@ -42,7 +43,6 @@
 - [每天都在用的 Ping 命令，它到底是什麼？](https://wayneblog.ga/2023-02-08/what-is-ping/)
 - [ASP.NET Core 網站如何整合 Google 的 reCAPTCHA Enterprise 功能](https://wayneblog.ga/2023-02-07/dotnet-core-google-recaptcha/)
 - [使用 Node.js 串接 MongoDB &lpar;含CRUD&rpar;](https://wayneblog.ga/2023-02-06/nodejs-using-mongodb/)
-- [3 種使用 Regex 正則表達式對資料夾中的文字檔進行搜尋與取代的方法](https://wayneblog.ga/2023-02-03/replace-using-regex-in-3-ways/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
