@@ -34,6 +34,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [【Polacode】一款好用的 VSCode 截圖套件推薦](https://wayneblog.ga/2023-02-14/vscode-plugin-polacode/)
+- [用 Navigator.share&lpar;&rpar; API 實作分享功能](https://wayneblog.ga/2023-02-14/js-navigator-share-api/)
 - [簡單扼要的介紹什麼是 Node.js？](https://wayneblog.ga/2023-02-14/what-is-nodejs/)
 - [【C#】實作 Debounced Job](https://wayneblog.ga/2023-02-13/dotnet-core-debounce/)
 - [學習 CSS 中的 :where&lpar;&rpar; 與 :is&lpar;&rpar; 函式](https://wayneblog.ga/2023-02-13/css-where-function/)
@@ -42,7 +43,6 @@
 - [你/妳真的了解 127.0.0.1 與 0.0.0.0 的區別？](https://wayneblog.ga/2023-02-08/different-in-localhost-ip/)
 - [每天都在用的 Ping 命令，它到底是什麼？](https://wayneblog.ga/2023-02-08/what-is-ping/)
 - [ASP.NET Core 網站如何整合 Google 的 reCAPTCHA Enterprise 功能](https://wayneblog.ga/2023-02-07/dotnet-core-google-recaptcha/)
-- [使用 Node.js 串接 MongoDB &lpar;含CRUD&rpar;](https://wayneblog.ga/2023-02-06/nodejs-using-mongodb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
