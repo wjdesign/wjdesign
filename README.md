@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [【Node.js】用 Typescript 與 Express 建立一個 server](https://wayneblog.ga/2023-02-21/ts-express-server/)
 - [【Javascript】整理關於 this 的指向](https://wayneblog.ga/2023-02-17/js-about-this/)
 - [【AWS】利用 SNS + Lambda，在 S3 儲存貯體檔案更新時透過 Telegram 通知我！](https://wayneblog.ga/2023-02-16/aws-sns-lambda-telegram-bot/)
 - [【Polacode】一款好用的 VSCode 截圖套件推薦](https://wayneblog.ga/2023-02-14/vscode-plugin-polacode/)
@@ -42,7 +43,6 @@
 - [學習 CSS 中的 :where&lpar;&rpar; 與 :is&lpar;&rpar; 函式](https://wayneblog.ga/2023-02-13/css-where-function/)
 - [Golang 的超級初心者筆記](https://wayneblog.ga/2023-02-10/golang-beginner-tutorial/)
 - [在 Windows 平台打造完美的 Go 開發環境 &lpar;WSL 2&rpar;](https://wayneblog.ga/2023-02-09/golang-dev-box-in-windows/)
-- [你/妳真的了解 127.0.0.1 與 0.0.0.0 的區別？](https://wayneblog.ga/2023-02-08/different-in-localhost-ip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
