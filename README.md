@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [【WebAPI】分層設計模式 - 三層式架構](https://wayneblog.ga/2023-02-24/webapi-3-tier-introduction/)
 - [【Javascript】Require 與 Import 的區別](https://wayneblog.ga/2023-02-22/js-require-vs-import/)
 - [【Node.js】用 Typescript 與 Express 建立一個 server](https://wayneblog.ga/2023-02-21/ts-express-server/)
 - [【Javascript】整理關於 this 的指向](https://wayneblog.ga/2023-02-17/js-about-this/)
@@ -42,7 +43,6 @@
 - [簡單扼要的介紹什麼是 Node.js？](https://wayneblog.ga/2023-02-14/what-is-nodejs/)
 - [【C#】實作 Debounced Job](https://wayneblog.ga/2023-02-13/dotnet-core-debounce/)
 - [學習 CSS 中的 :where&lpar;&rpar; 與 :is&lpar;&rpar; 函式](https://wayneblog.ga/2023-02-13/css-where-function/)
-- [Golang 的超級初心者筆記](https://wayneblog.ga/2023-02-10/golang-beginner-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
