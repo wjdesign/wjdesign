@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [【Typescript】tsconfig.json 的設定與資料型別介紹筆記](https://wayneblog.ga/2023-03-07/ts-config-and-type/)
 - [【find】在 Linux 使用 find 指令尋找目錄或檔案的速查筆記](https://wayneblog.ga/2023-03-03/linux-find/)
 - [Cloudflare Tunnel 介紹](https://wayneblog.ga/2023-03-02/cloudflare-tunnel-introduction/)
 - [【WebAPI】分層設計模式 - 三層式架構](https://wayneblog.ga/2023-02-24/webapi-3-tier-introduction/)
@@ -42,7 +43,6 @@
 - [【AWS】利用 SNS + Lambda，在 S3 儲存貯體檔案更新時透過 Telegram 通知我！](https://wayneblog.ga/2023-02-16/aws-sns-lambda-telegram-bot/)
 - [【Polacode】一款好用的 VSCode 截圖套件推薦](https://wayneblog.ga/2023-02-14/vscode-plugin-polacode/)
 - [用 Navigator.share&lpar;&rpar; API 實作分享功能](https://wayneblog.ga/2023-02-14/js-navigator-share-api/)
-- [簡單扼要的介紹什麼是 Node.js？](https://wayneblog.ga/2023-02-14/what-is-nodejs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
