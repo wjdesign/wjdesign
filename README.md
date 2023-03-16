@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [21 個好用與特殊的 CSS 技巧！](https://wayneblog.ga/2023-03-16/css-21-tricks/)
 - [【Petite-Vue】大小只有 ~6KB 的 mini Vue！](https://wayneblog.ga/2023-03-10/petite-vue-introduction/)
 - [【Typescript】tsconfig.json 的設定與資料型別介紹筆記](https://wayneblog.ga/2023-03-07/ts-config-and-type/)
 - [【find】在 Linux 使用 find 指令尋找目錄或檔案的速查筆記](https://wayneblog.ga/2023-03-03/linux-find/)
@@ -42,7 +43,6 @@
 - [【Node.js】用 Typescript 與 Express 建立一個 server](https://wayneblog.ga/2023-02-21/ts-express-server/)
 - [【Javascript】整理關於 this 的指向](https://wayneblog.ga/2023-02-17/js-about-this/)
 - [【AWS】利用 SNS + Lambda，在 S3 儲存貯體檔案更新時透過 Telegram 通知我！](https://wayneblog.ga/2023-02-16/aws-sns-lambda-telegram-bot/)
-- [【Polacode】一款好用的 VSCode 截圖套件推薦](https://wayneblog.ga/2023-02-14/vscode-plugin-polacode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
