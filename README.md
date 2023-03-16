@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [【Function Currying】Javascript 函數柯里化](https://wayneblog.ga/2023-03-16/js-function-currying/)
 - [【Python】裝飾子 &lpar;decorator&rpar; 教學](https://wayneblog.ga/2023-03-16/python-decorator-tutorial/)
 - [21 個好用與特殊的 CSS 技巧！](https://wayneblog.ga/2023-03-16/css-21-tricks/)
 - [【Petite-Vue】大小只有 ~6KB 的 mini Vue！](https://wayneblog.ga/2023-03-10/petite-vue-introduction/)
@@ -42,7 +43,6 @@
 - [【WebAPI】分層設計模式 - 三層式架構](https://wayneblog.ga/2023-02-24/webapi-3-tier-introduction/)
 - [【Javascript】Require 與 Import 的區別](https://wayneblog.ga/2023-02-22/js-require-vs-import/)
 - [【Node.js】用 Typescript 與 Express 建立一個 server](https://wayneblog.ga/2023-02-21/ts-express-server/)
-- [【Javascript】整理關於 this 的指向](https://wayneblog.ga/2023-02-17/js-about-this/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
