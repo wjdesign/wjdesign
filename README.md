@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [【Pyenv】輕鬆管理 Python 版本的好工具！](https://wayneblog.ga/2023-03-21/python-pyenv-introduction/)
 - [物件導向的 Q&amp;A - 以 Python 舉例](https://wayneblog.ga/2023-03-21/python-oop-qa/)
 - [【Function Currying】Javascript 函數柯里化](https://wayneblog.ga/2023-03-16/js-function-currying/)
 - [【Python】裝飾子 &lpar;decorator&rpar; 教學](https://wayneblog.ga/2023-03-16/python-decorator-tutorial/)
@@ -42,7 +43,6 @@
 - [【find】在 Linux 使用 find 指令尋找目錄或檔案的速查筆記](https://wayneblog.ga/2023-03-03/linux-find/)
 - [Cloudflare Tunnel 介紹](https://wayneblog.ga/2023-03-02/cloudflare-tunnel-introduction/)
 - [【WebAPI】分層設計模式 - 三層式架構](https://wayneblog.ga/2023-02-24/webapi-3-tier-introduction/)
-- [【Javascript】Require 與 Import 的區別](https://wayneblog.ga/2023-02-22/js-require-vs-import/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
