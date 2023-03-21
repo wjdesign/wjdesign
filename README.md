@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [物件導向的 Q&amp;A - 以 Python 舉例](https://wayneblog.ga/2023-03-21/python-oop-qa/)
 - [【Function Currying】Javascript 函數柯里化](https://wayneblog.ga/2023-03-16/js-function-currying/)
 - [【Python】裝飾子 &lpar;decorator&rpar; 教學](https://wayneblog.ga/2023-03-16/python-decorator-tutorial/)
 - [21 個好用與特殊的 CSS 技巧！](https://wayneblog.ga/2023-03-16/css-21-tricks/)
@@ -42,7 +43,6 @@
 - [Cloudflare Tunnel 介紹](https://wayneblog.ga/2023-03-02/cloudflare-tunnel-introduction/)
 - [【WebAPI】分層設計模式 - 三層式架構](https://wayneblog.ga/2023-02-24/webapi-3-tier-introduction/)
 - [【Javascript】Require 與 Import 的區別](https://wayneblog.ga/2023-02-22/js-require-vs-import/)
-- [【Node.js】用 Typescript 與 Express 建立一個 server](https://wayneblog.ga/2023-02-21/ts-express-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
