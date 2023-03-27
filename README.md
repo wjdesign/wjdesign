@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [【Javascript】關於 Functional Programming 函數式編程](https://wayneblog.ga/2023-03-27/js-functional-programming/)
 - [關於 ASP.NET Core 7.0 的啟動設定檔 &lpar;Launch Settings&rpar;](https://wayneblog.ga/2023-03-24/dotnet-core-v7-launch-profile/)
 - [【Pyenv】輕鬆管理 Python 版本的好工具！](https://wayneblog.ga/2023-03-21/python-pyenv-introduction/)
 - [物件導向的 Q&amp;A - 以 Python 舉例](https://wayneblog.ga/2023-03-21/python-oop-qa/)
@@ -42,7 +43,6 @@
 - [【Petite-Vue】大小只有 ~6KB 的 mini Vue！](https://wayneblog.ga/2023-03-10/petite-vue-introduction/)
 - [【Typescript】tsconfig.json 的設定與資料型別介紹筆記](https://wayneblog.ga/2023-03-07/ts-config-and-type/)
 - [【find】在 Linux 使用 find 指令尋找目錄或檔案的速查筆記](https://wayneblog.ga/2023-03-03/linux-find/)
-- [Cloudflare Tunnel 介紹](https://wayneblog.ga/2023-03-02/cloudflare-tunnel-introduction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
