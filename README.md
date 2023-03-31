@@ -33,6 +33,8 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [關於領域驅動設計 &lpar;Domain-Driven-Design&rpar;](https://wayneblog.ga/2023-03-31/ddd-introduction/)
+- [【VSCode】重置儲存在雲端的設定、擴充套件與資料！](https://wayneblog.ga/2023-03-31/reset-vscode-settings-cloud-data/)
 - [【Javascript】關於 Functional Programming 函數式編程](https://wayneblog.ga/2023-03-27/js-functional-programming/)
 - [關於 ASP.NET Core 7.0 的啟動設定檔 &lpar;Launch Settings&rpar;](https://wayneblog.ga/2023-03-24/dotnet-core-v7-launch-profile/)
 - [【Pyenv】輕鬆管理 Python 版本的好工具！](https://wayneblog.ga/2023-03-21/python-pyenv-introduction/)
@@ -41,8 +43,6 @@
 - [【Python】裝飾子 &lpar;decorator&rpar; 教學](https://wayneblog.ga/2023-03-16/python-decorator-tutorial/)
 - [21 個好用與特殊的 CSS 技巧！](https://wayneblog.ga/2023-03-16/css-21-tricks/)
 - [【Petite-Vue】大小只有 ~6KB 的 mini Vue！](https://wayneblog.ga/2023-03-10/petite-vue-introduction/)
-- [【Typescript】tsconfig.json 的設定與資料型別介紹筆記](https://wayneblog.ga/2023-03-07/ts-config-and-type/)
-- [【find】在 Linux 使用 find 指令尋找目錄或檔案的速查筆記](https://wayneblog.ga/2023-03-03/linux-find/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
