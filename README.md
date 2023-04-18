@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [【Typescript】5.0 版本發布](https://wayneblog.ga/2023-04-18/ts-v5-introduction/)
 - [【K6】壓力測試工具介紹](https://wayneblog.ga/2023-04-11/k6-introduction/)
 - [關於領域驅動設計 &lpar;Domain-Driven-Design&rpar;](https://wayneblog.ga/2023-03-31/ddd-introduction/)
 - [【VSCode】重置儲存在雲端的設定、擴充套件與資料！](https://wayneblog.ga/2023-03-31/reset-vscode-settings-cloud-data/)
@@ -42,7 +43,6 @@
 - [物件導向的 Q&amp;A - 以 Python 舉例](https://wayneblog.ga/2023-03-21/python-oop-qa/)
 - [【Function Currying】Javascript 函數柯里化](https://wayneblog.ga/2023-03-16/js-function-currying/)
 - [【Python】裝飾子 &lpar;decorator&rpar; 教學](https://wayneblog.ga/2023-03-16/python-decorator-tutorial/)
-- [21 個好用與特殊的 CSS 技巧！](https://wayneblog.ga/2023-03-16/css-21-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
