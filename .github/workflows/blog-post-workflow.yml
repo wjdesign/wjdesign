@@ -14,5 +14,5 @@ jobs:
       - name: Pull in hugo posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://wayneblog.ga/post/index.xml"
+          feed_list: "https://wayne-blog.com/post/index.xml"
           max_post_count: 10
