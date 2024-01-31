@@ -33,6 +33,8 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [Vite 5 正式發布](https://wayne-blog.com/2023-11-22/vite-v5-announcing/)
+- [淺談中國大陸的特別網路環境和 CDN 選擇](https://wayne-blog.com/2023-08-18/cdn-in-china/)
 - [【Typescript】5.0 版本發布](https://wayne-blog.com/2023-04-18/ts-v5-introduction/)
 - [【K6】壓力測試工具介紹](https://wayne-blog.com/2023-04-11/k6-introduction/)
 - [關於領域驅動設計 &lpar;Domain-Driven-Design&rpar;](https://wayne-blog.com/2023-03-31/ddd-introduction/)
@@ -41,8 +43,6 @@
 - [關於 ASP.NET Core 7.0 的啟動設定檔 &lpar;Launch Settings&rpar;](https://wayne-blog.com/2023-03-24/dotnet-core-v7-launch-profile/)
 - [【Pyenv】輕鬆管理 Python 版本的好工具！](https://wayne-blog.com/2023-03-21/python-pyenv-introduction/)
 - [物件導向的 Q&amp;A - 以 Python 舉例](https://wayne-blog.com/2023-03-21/python-oop-qa/)
-- [【Function Currying】Javascript 函數柯里化](https://wayne-blog.com/2023-03-16/js-function-currying/)
-- [【Python】裝飾子 &lpar;decorator&rpar; 教學](https://wayne-blog.com/2023-03-16/python-decorator-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
