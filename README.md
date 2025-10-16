@@ -33,6 +33,7 @@
 ## 🆕 Latest Blog Posts.  
 
 <!-- BLOG-POST-LIST:START -->
+- [分享一個實用的 Chrome 擴充功能 - Console Importer](https://wayne-blog.com/2025-10-16/console-importer-chrome-extension/)
 - [VSCode MCP Servers 與專案導入 Playwright 自動化測試分享](https://wayne-blog.com/2025-08-30/vscode-mcp-servers-playwright/)
 - [Vite 5 正式發布](https://wayne-blog.com/2023-11-22/vite-v5-announcing/)
 - [淺談中國大陸的特別網路環境和 CDN 選擇](https://wayne-blog.com/2023-08-18/cdn-in-china/)
@@ -42,7 +43,6 @@
 - [【VSCode】重置儲存在雲端的設定、擴充套件與資料！](https://wayne-blog.com/2023-03-31/reset-vscode-settings-cloud-data/)
 - [【Javascript】關於 Functional Programming 函數式編程](https://wayne-blog.com/2023-03-27/js-functional-programming/)
 - [關於 ASP.NET Core 7.0 的啟動設定檔 &lpar;Launch Settings&rpar;](https://wayne-blog.com/2023-03-24/dotnet-core-v7-launch-profile/)
-- [【Pyenv】輕鬆管理 Python 版本的好工具！](https://wayne-blog.com/2023-03-21/python-pyenv-introduction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
